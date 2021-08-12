@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thodes-wish (Todd Hodes)
+- 👋 Hi, I’m @thodes-wish aka @thodes (Todd Hodes)
 - 🔭 Previously I worked at LocationLabs for almost 18 years. We sold it to AVG in Oct 2014.
 - 👀 🌱 I’m currently working on Android infrastructure at wish.com
 - 📫 Reach me on slack @thodes, or email thodes@
