@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thodes-wish aka @thodes (Todd Hodes)
-- 🔭 Previously I worked at LocationLabs for almost 18 years. We sold it to AVG in Oct 2014 for $220MM cash.
+- 🔭 Previously I worked at LocationLabs for almost 18 years. We sold it to AVG in Oct 2014 for $220,000,000 cash.  I have a lot of stories.
 - 🌱 I’m currently working on Android infrastructure at wish.com
 - 📫 Reach me on slack @thodes, or email thodes@
 - ⚡ Fun fact: I co-own a bar, the Orbit Room, and I've been the executive producer of a bunch of albums 
